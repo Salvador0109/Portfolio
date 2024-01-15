@@ -1,0 +1,6 @@
+.header-custom :nth-child(1){
+    color:black;
+    text-align: left;
+    font-size: larger;
+    font-weight: bold;
+}

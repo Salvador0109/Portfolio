@@ -1,0 +1,17 @@
+.custom-banner{
+    opacity: 0;
+    animation: custom-banner 0.8s ease-out forwards;
+}
+
+@keyframes custom-banner{
+    from{
+        opacity: 0;
+        transform: translateX(-100px);
+    }
+    to{
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}
+    
+    
