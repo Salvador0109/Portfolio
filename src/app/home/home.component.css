@@ -1,6 +1,6 @@
 .custom-banner{
     opacity: 0;
-    animation: custom-banner 0.8s ease-out forwards;
+    animation: custom-banner 1.2s ease-out forwards;
 }
 
 @keyframes custom-banner{
